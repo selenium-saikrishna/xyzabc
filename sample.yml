@@ -1,0 +1,22 @@
+intelliq: it trainings
+courses offered:
+    - selenium:
+        - fee: 
+            - onetime_payment: 5000
+            - instalment: 7000
+        - duration: 45
+     
+    - devops: >
+        This is for learning 
+        devops tools
+    
+    - tools: |
+        Docker
+        ansible
+        jenkins
+    -configuration management:
+        - andible
+        - puppet
+    
+    
+    
